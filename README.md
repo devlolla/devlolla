@@ -1,12 +1,10 @@
 ### Heey, meu nome é Lolla e seja bem vindo ao meu Github 🧙‍♀️
 
+> Hoje trabalho com FrontEnd 💅 sou aspirante a UI/UX Designer 🧚‍♀️ e estou estudando: TypeScript.
+
 ##
-
-- Hoje trabalho com FrontEnd 💅
-- Aspirante a UI/UX Designer 🧚‍♀️
-- Estudando: TypeScript 
-
-<div align="left">
+<br />
+<div align="rigth">
   <a href="https://github.com/devlolla">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devlolla&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlolla&layout=compact&langs_count=7&theme=dracula"/>
