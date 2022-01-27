@@ -16,7 +16,7 @@
   <img align="center" alt="Lolla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lolla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="Lolla-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202109/338224_lVzYMCAo.png">
+  <img align="right" alt="Lolla-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/59802692?v=4">
 </div>
   
   ##
