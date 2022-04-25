@@ -1,6 +1,6 @@
 ### Heey, meu nome é Lolla e seja bem vindo ao meu Github 🧙‍♀️
 
-> Hoje trabalho com FrontEnd 💅 aspirante a UI/UX Designer 🧚‍♀️ e estou estudando: TypeScript.
+> Hoje trabalho com FrontEnd 💅 e sou aspirante a UI/UX Designer 🧚‍♀️ 
 
 ##
 <br />
