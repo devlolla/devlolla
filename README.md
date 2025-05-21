@@ -1,6 +1,6 @@
 ### Heey, meu nome é Lolla e seja bem vindo ao meu Github 🧙‍♀️
 
-> Desenvolvedora FrontEnd 💅 e aspirante a UI/UX Designer 🧚‍♀️ 
+> Desenvolvedora FrontEnd 💅 Aspirante a UI/UX Designer 🧚‍♀️ Tentando aprender python 🐍
 
 ##
 <br />
